@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/sonstige", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wandspiegel-safari-adventure-natur-o-50-cm-sonstige-4944948-1.jpg":"\u002Fassets\u002Fimages\u002Fwandspiegel-safari-adventure-natur-o-50-cm-sonstige-4944948-1.webp"}}],fetch:{},mutations:void 0});

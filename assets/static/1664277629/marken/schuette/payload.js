@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/schuette", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/eisl-bambus-spiegel-mit-ablage-schuette-3591518-1.jpg":"\u002Fassets\u002Fimages\u002Feisl-bambus-spiegel-mit-ablage-schuette-3591518-1.webp"}}],fetch:{},mutations:void 0});
