@@ -1,17 +1,80 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "pelipal",
+        "name": "Pelipal",
+        "slug": "pelipal",
+        "productCategory": "Pelipal",
+        "localThumb": "/assets/images/hersteller/pelipal.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "fackelmann",
+        "name": "Fackelmann",
+        "slug": "fackelmann",
+        "productCategory": "Fackelmann",
+        "localThumb": "/assets/images/hersteller/fackelmann.webp"
+    },
+    {
+        "key": "maximus",
+        "name": "Maximus",
+        "slug": "maximus",
+        "productCategory": "Maximus",
+        "localThumb": "/assets/images/hersteller/maximus.webp"
+    },
+    {
+        "key": "kristall-form",
+        "name": "Kristall-Form",
+        "slug": "kristall-form",
+        "productCategory": "Kristall-Form",
+        "localThumb": "/assets/images/hersteller/kristall-form.webp"
+    },
+    {
+        "key": "sanotechnik",
+        "name": "Sanotechnik",
+        "slug": "sanotechnik",
+        "productCategory": "Sanotechnik",
+        "localThumb": "/assets/images/hersteller/sanotechnik.webp"
+    },
+    {
+        "key": "baliv",
+        "name": "baliv",
+        "slug": "baliv",
+        "productCategory": "baliv",
+        "localThumb": "/assets/images/hersteller/baliv.webp"
+    },
+    {
+        "key": "duravit",
+        "name": "Duravit",
+        "slug": "duravit",
+        "productCategory": "Duravit",
+        "localThumb": "/assets/images/hersteller/duravit.webp"
+    },
+    {
+        "key": "geberit",
+        "name": "Geberit",
+        "slug": "geberit",
+        "productCategory": "Geberit",
+        "localThumb": "/assets/images/hersteller/geberit.webp"
+    },
+    {
+        "key": "keuco",
+        "name": "Keuco",
+        "slug": "keuco",
+        "productCategory": "Keuco",
+        "localThumb": "/assets/images/hersteller/keuco.webp"
+    },
+    {
+        "key": "posseik",
+        "name": "Posseik",
+        "slug": "posseik",
+        "productCategory": "Posseik",
+        "localThumb": "/assets/images/hersteller/posseik.webp"
+    },
+    {
+        "key": "dsk",
+        "name": "DSK",
+        "slug": "dsk",
+        "productCategory": "DSK",
+        "localThumb": "/assets/images/hersteller/dsk.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +84,38 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "mirrors and more",
+        "name": "Mirrors and More",
+        "slug": "mirrors-and-more",
+        "productCategory": "Mirrors and More",
+        "localThumb": "/assets/images/hersteller/mirrors-and-more.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "baliv moss green trend",
+        "name": "baliv Moss Green trend",
+        "slug": "baliv-moss-green-trend",
+        "productCategory": "baliv Moss Green trend",
+        "localThumb": "/assets/images/hersteller/baliv-moss-green-trend.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "schütte",
+        "name": "Schütte",
+        "slug": "schuette",
+        "productCategory": "Schütte",
+        "localThumb": "/assets/images/hersteller/schuette.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "jokey",
+        "name": "Jokey",
+        "slug": "jokey",
+        "productCategory": "Jokey",
+        "localThumb": "/assets/images/hersteller/jokey.webp"
     }
 ]
