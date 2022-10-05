@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/baliv-moss-green-trend", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/baliv-moss-green-trend-led-wandspiegel-sp-60-90-metall-schwarz-baliv-moss-green-trend-7003114-1.jpg":"\u002Fassets\u002Fimages\u002Fbaliv-moss-green-trend-led-wandspiegel-sp-60-90-metall-schwarz-baliv-moss-green-trend-7003114-1.webp"}}],fetch:{},mutations:void 0});

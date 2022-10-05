@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sanotechnik", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sanotechnik-led-leuchte-nora-eek-a-a-sanotechnik-7763642-1.jpg":"\u002Fassets\u002Fimages\u002Fsanotechnik-led-leuchte-nora-eek-a-a-sanotechnik-7763642-1.webp"}}],fetch:{},mutations:void 0});
