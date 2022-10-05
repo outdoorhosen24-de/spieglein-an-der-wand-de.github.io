@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "spieglein-an-der-wand.de",
+    "hostname": "https://www.spieglein-an-der-wand.de/",
+    "email": "spieglein-an-der-wand.desurrealnetworks.io",
+    "organization": "spieglein-an-der-wand.de",
+    "logoText": "Spieglein-an-der-wand.de",
+    "title": "Badspiegel",
+    "subline": "Der Online Shop f\u00fcr Badspiegel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "2795896",
+        "6282867",
+        "5371430",
+        "3591518",
+        "3591518",
+        "2456606"
+    ],
+    "winnerProducts": [
+        "5707070",
+        "6283311",
+        "9659186"
+    ],
+    "featuredCategories": [
+        "Zubeh\u00f6r f\u00fcr Spiegel",
+        "Zubeh\u00f6r f\u00fcr Spiegel",
+        "Kosmetikspiegel",
+        "Spiegel",
+        "Spiegel",
+        "Zubeh\u00f6r f\u00fcr Spiegel"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badspiegel",
-        "featureText": "Your featured text goes here",
+        "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der ausschlie\u00dflich Badspiegel anbietet. Die Auswahl an Badspiegeln ist sehr gro\u00df und die Preise sind sehr fair. Der Kundenservice ist sehr gut und der Versand ist sehr schnell.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Der Badspiegel-Shop",
+            "metaDescription": "Der Badspiegel Shop bietet eine gro\u00dfe Auswahl an Badspiegeln in verschiedenen Gr\u00f6\u00dfen, Formen und Designs.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Der Badspiegel: Ein Spiegel f\u00fcr das Badezimmer",
+                    "text": "Der Badspiegel ist ein unverzichtbares Accessoire in jedem Badezimmer. Er dient zur K\u00f6rperpflege und zur Kosmetik und ist daher in vielen verschiedenen Ausf\u00fchrungen und Gr\u00f6\u00dfen erh\u00e4ltlich. Die meisten Badspiegel sind mit einer Beleuchtung ausgestattet, die das Aussehen des Gesichts verbessert und die Pflege erleichtert.\n\nDer Badspiegel ist in der Regel an der Wand befestigt und kann in verschiedenen H\u00f6hen angebracht werden. Die meisten Badspiegel sind rechteckig, aber es gibt auch runde und ovale Modelle. Die Gr\u00f6\u00dfe des Badspiegels sollte so gew\u00e4hlt werden, dass er das Gesicht vollst\u00e4ndig abdeckt.\n\nDie Beleuchtung des Badspiegels ist in der Regel wei\u00df, aber es gibt auch Modelle mit farbiger Beleuchtung. Die Beleuchtung kann an der Wand oder an der Decke befestigt werden. Die Beleuchtung des Badspiegels sollte so gew\u00e4hlt werden, dass sie das Gesicht gut ausleuchtet.\n\nBadspiegel sind in vielen verschiedenen Ausf\u00fchrungen erh\u00e4ltlich. Die meisten Badspiegel sind mit einer Beleuchtung ausgestattet, die das Aussehen des Gesichts verbessert und die Pflege erleichtert."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badspiegel Shop",
+            "metaDescription": "Der offizielle Shop f\u00fcr Badspiegel. Hier findest du eine gro\u00dfe Auswahl an verschiedenen Badspiegeln f\u00fcr dein Zuhause.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badspiegel-Hersteller",
+            "metaDescription": "Badspiegel-Hersteller: Wir sind ein f\u00fchrender Hersteller von Badspiegeln. Wir bieten eine gro\u00dfe Auswahl an Badspiegeln in verschiedenen Gr\u00f6\u00dfen, Formen und Designs.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Badspiegel - Der beste Weg, um Ihr Badezimmer zu versch\u00f6nern!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist der perfekte $KATEGORIE f\u00fcr Ihr Badezimmer.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Badspiegel f\u00fcr dein Badezimmer",
+        "defaultMetaDescription": "$KATEGORIE Badspiegel - Finde den perfekten Badspiegel f\u00fcr Dein Badezimmer. Wir haben eine gro\u00dfe Auswahl an verschiedenen Badspiegeln f\u00fcr Dich!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Badspiegel - Spiegel f\u00fcr Ihr Badezimmer. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Badspiegeln.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Badspiegel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Badspiegel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Badspiegel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
