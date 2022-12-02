@@ -51,12 +51,15 @@
             "title": "Der Badspiegel-Shop",
             "metaDescription": "Der Badspiegel Shop bietet eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Der Badspiegel: Ein Spiegel für das Badezimmer",
-                    "text": "Der Badspiegel ist ein unverzichtbares Accessoire in jedem Badezimmer. Er dient zur Körperpflege und zur Kosmetik und ist daher in vielen verschiedenen Ausführungen und Größen erhältlich. Die meisten Badspiegel sind mit einer Beleuchtung ausgestattet, die das Aussehen des Gesichts verbessert und die Pflege erleichtert.\n\nDer Badspiegel ist in der Regel an der Wand befestigt und kann in verschiedenen Höhen angebracht werden. Die meisten Badspiegel sind rechteckig, aber es gibt auch runde und ovale Modelle. Die Größe des Badspiegels sollte so gewählt werden, dass er das Gesicht vollständig abdeckt.\n\nDie Beleuchtung des Badspiegels ist in der Regel weiß, aber es gibt auch Modelle mit farbiger Beleuchtung. Die Beleuchtung kann an der Wand oder an der Decke befestigt werden. Die Beleuchtung des Badspiegels sollte so gewählt werden, dass sie das Gesicht gut ausleuchtet.\n\nBadspiegel sind in vielen verschiedenen Ausführungen erhältlich. Die meisten Badspiegel sind mit einer Beleuchtung ausgestattet, die das Aussehen des Gesichts verbessert und die Pflege erleichtert."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Der Badspiegel: Ein Spiegel für das Badezimmer",
+                        "text": "Der Badspiegel ist ein unverzichtbares Accessoire in jedem Badezimmer. Er dient zur Körperpflege und zur Kosmetik und ist daher in vielen verschiedenen Ausführungen und Größen erhältlich. Die meisten Badspiegel sind mit einer Beleuchtung ausgestattet, die das Aussehen des Gesichts verbessert und die Pflege erleichtert.\n\nDer Badspiegel ist in der Regel an der Wand befestigt und kann in verschiedenen Höhen angebracht werden. Die meisten Badspiegel sind rechteckig, aber es gibt auch runde und ovale Modelle. Die Größe des Badspiegels sollte so gewählt werden, dass er das Gesicht vollständig abdeckt.\n\nDie Beleuchtung des Badspiegels ist in der Regel weiß, aber es gibt auch Modelle mit farbiger Beleuchtung. Die Beleuchtung kann an der Wand oder an der Decke befestigt werden. Die Beleuchtung des Badspiegels sollte so gewählt werden, dass sie das Gesicht gut ausleuchtet.\n\nBadspiegel sind in vielen verschiedenen Ausführungen erhältlich. Die meisten Badspiegel sind mit einer Beleuchtung ausgestattet, die das Aussehen des Gesichts verbessert und die Pflege erleichtert."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Badspiegel Shop",
