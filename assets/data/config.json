@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "spieglein-an-der-wand.de",
     "hostname": "https://www.spieglein-an-der-wand.de/",
     "email": "spieglein-an-der-wand.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badspiegel",
-        "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der ausschließlich Badspiegel anbietet. Die Auswahl an Badspiegeln ist sehr groß und die Preise sind sehr fair. Der Kundenservice ist sehr gut und der Versand ist sehr schnell.",
+        "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der sich ausschließlich auf Badspiegel spezialisiert hat. Die Auswahl an Badspiegeln ist sehr groß. Die Preise sind sehr konkurrenzfähig. Der Kundenservice ist sehr gut und die Ware wird sehr schnell geliefert. Wenn Sie also auf der Suche nach einem Badspiegel sind, wie z. B. einem Kosmetikspiegel oder Zubehör für Spiegel, dann sind Sie hier genau an der richtigen Adresse.",
         "index": {
-            "title": "Der Badspiegel-Shop",
-            "metaDescription": "Der Badspiegel Shop bietet eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs.",
+            "title": "Der Badspiegel Shop",
+            "metaDescription": "Im Badspiegel-Shop wird eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs angeboten. Schnelle Lieferung und Best-Preis-Garantie.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -63,18 +63,18 @@
         },
         "shop": {
             "title": "Badspiegel Shop",
-            "metaDescription": "Der offizielle Shop für Badspiegel. Hier findest du eine große Auswahl an verschiedenen Badspiegeln für dein Zuhause.",
+            "metaDescription": "Der offizielle Online-Shop für Badezimmerspiegel. Hier findest du eine große Auswahl an verschiedenen Badspiegeln für dein Zuhause.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Badspiegel-Hersteller",
-            "metaDescription": "Badspiegel-Hersteller: Wir sind ein führender Hersteller von Badspiegeln. Wir bieten eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs.",
+            "metaDescription": "Wir führen Badspiegel der Marken Fackelmann, Sanotechik, Duravit, Wenko und Schütte. Bei uns finden Sie ausschließlich Markenspiegel für Ihr Badezimmer.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Badspiegel - Der beste Weg, um Ihr Badezimmer zu verschönern!",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist der perfekte $KATEGORIE für Ihr Badezimmer.",
+        "defaultTitle": "$PRODUKT | Badspiegel Shop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig online kaufen. Schnelle Lieferung . Und viele weitere Produkte aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -90,7 +90,7 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Die besten Badspiegel für dein Badezimmer",
-        "defaultMetaDescription": "$KATEGORIE Badspiegel - Finde den perfekten Badspiegel für Dein Badezimmer. Wir haben eine große Auswahl an verschiedenen Badspiegeln für Dich!",
+        "defaultMetaDescription": "Finde den perfekten Badspiegel für Dein Badezimmer aus der Kategorie $KATEGORIE. Wir haben eine große Auswahl an verschiedenen Badspiegeln.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Badspiegel - Spiegel für Ihr Badezimmer. Wir bieten Ihnen eine große Auswahl an verschiedenen Badspiegeln.",
+        "defaultTitle": "Badspiegel und Zubehör von $HERSTELLER",
+        "defaultMetaDescription": "Wir bieten eine große Auswahl an Badezimmerspiegeln der Marke $HERSTELLER an. $HERSTELLER ist Ihr Profi für Badspiegel und Zubehör.",
         "defaultRobots": "index, follow",
         "brands": [
             {
