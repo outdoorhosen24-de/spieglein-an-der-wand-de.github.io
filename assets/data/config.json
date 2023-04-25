@@ -1,176 +1,179 @@
 {
-    "configIsReady": true,
-    "domain": "spieglein-an-der-wand.de",
-    "hostname": "https://www.spieglein-an-der-wand.de/",
-    "email": "spieglein-an-der-wand.de@surrealnetworks.io",
-    "organization": "spieglein-an-der-wand.de",
-    "logoText": "Spieglein-an-der-wand.de",
-    "title": "Badspiegel",
-    "subline": "Der Online Shop für Badspiegel",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "2795896",
-        "6282867",
-        "5371430",
-        "3591518",
-        "3591518",
-        "2456606"
-    ],
-    "winnerProducts": [
-        "5707070",
-        "6283311",
-        "9659186"
-    ],
-    "featuredCategories": [
-        "Zubehör für Spiegel",
-        "Zubehör für Spiegel",
-        "Kosmetikspiegel",
-        "Spiegel",
-        "Spiegel",
-        "Zubehör für Spiegel"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Badspiegel",
-        "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der sich ausschließlich auf Badspiegel spezialisiert hat. Die Auswahl an Badspiegeln ist sehr groß. Die Preise sind sehr konkurrenzfähig. Der Kundenservice ist sehr gut und die Ware wird sehr schnell geliefert. Wenn Sie also auf der Suche nach einem Badspiegel sind, wie z. B. einem Kosmetikspiegel oder Zubehör für Spiegel, dann sind Sie hier genau an der richtigen Adresse.",
-        "index": {
-            "title": "Der Badspiegel Shop",
-            "metaDescription": "Im Badspiegel-Shop wird eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs angeboten. Schnelle Lieferung und Best-Preis-Garantie.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Spieglein an der Wand",
-                        "text": "Herzlich Willkommen bei Spieglein an der Wand, Ihrem Online-Shop für hochwertige Badspiegel. Unser Sortiment bietet Ihnen eine große Auswahl an Spiegeln in verschiedenen Größen, Formen und Ausführungen, die Ihr Badezimmer in einen Raum voller Eleganz und Stil verwandeln werden.Unser Ziel ist es, Ihnen eine einfache und bequeme Einkaufserfahrung zu bieten, bei der Sie schnell und problemlos die für Sie passenden Spiegel finden können. Deshalb haben wir unsere Produkte in verschiedene Kategorien unterteilt, darunter Spiegel, Kosmetikspiegel und Zubehör für Spiegel.Wir bieten Ihnen nicht nur eine große Auswahl an Spiegeln, sondern auch eine Vielzahl an Zubehör, darunter Beleuchtungslösungen, Spiegelhalterungen und andere praktische Accessoires, die Ihnen dabei helfen, Ihr Badezimmer vollständig zu gestalten.Unsere Spiegel sind nicht nur schön anzusehen, sondern auch funktional und langlebig. Wir verwenden nur hochwertige Materialien und modernste Fertigungstechnologien, um sicherzustellen, dass jeder Spiegel, den Sie bei uns kaufen, den höchsten Ansprüchen gerecht wird.Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Welt der Badspiegel bei Spieglein an der Wand. Wir sind sicher, dass Sie den perfekten Spiegel für Ihr Badezimmer finden werden. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-                    },
-                    {
-                        "title": "Zubehör für Spiegel",
-                        "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/zubehoer-fuer-spiegel/\" title=\"Zubehör für Spiegel\">Zubehör für Spiegel</a>. Von Halterungen und Befestigungen bis hin zu Reinigungsmitteln und Schutzfolien - bei uns finden Sie alles, was Sie für Ihren Badspiegel benötigen. Unsere hochwertigen Produkte sorgen für eine lange Lebensdauer Ihres Spiegels und garantieren eine perfekte Funktionalität. Überzeugen Sie sich selbst von unserem Sortiment an Zubehör für Spiegel und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Spiegel",
-                        "text": "Erleben Sie ein neues Niveau an Stil und Funktionalität mit unseren Badspiegeln. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, damit Sie den perfekten <a href=\"/kategorie/spiegel/\" title=\"Spiegel\">Spiegel</a> für Ihr Bad finden. Unsere Spiegel sind aus hochwertigen Materialien gefertigt und bieten eine kristallklare Sicht. Verleihen Sie Ihrem Bad eine neue Optik und bestellen Sie noch heute einen Spiegel bei uns."
-                    },
-                    {
-                        "title": "Kosmetikspiegel",
-                        "text": "Steigern Sie Ihre Schönheitsroutine mit unseren hochwertigen <a href=\"/kategorie/kosmetikspiegel/\" title=\"Kosmetikspiegel\">Kosmetikspiegel</a>n. Wir bieten eine große Auswahl an verschiedenen Größen und Designs, damit Sie den perfekten Spiegel für Ihre Bedürfnisse finden. Unsere Spiegel bieten eine kristallklare Sicht und ermöglichen es Ihnen, jedes Detail Ihres Gesichts zu sehen. Verleihen Sie Ihrer Schönheitsroutine eine neue Dimension und bestellen Sie noch heute einen Kosmetikspiegel bei uns."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Badspiegel Shop",
-            "metaDescription": "Der offizielle Online-Shop für Badezimmerspiegel. Hier findest du eine große Auswahl an verschiedenen Badspiegeln für dein Zuhause.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Badspiegel-Hersteller",
-            "metaDescription": "Wir führen Badspiegel der Marken Fackelmann, Sanotechik, Duravit, Wenko und Schütte. Bei uns finden Sie ausschließlich Markenspiegel für Ihr Badezimmer.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Badspiegel Shop",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig online kaufen. Schnelle Lieferung . Und viele weitere Produkte aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "spieglein-an-der-wand.de",
+  "hostname": "https://www.spieglein-an-der-wand.de/",
+  "email": "spieglein-an-der-wand.de@surrealnetworks.io",
+  "organization": "spieglein-an-der-wand.de",
+  "logoText": "Spieglein-an-der-wand.de",
+  "title": "Badspiegel",
+  "subline": "Der Online Shop f\u00fcr Badspiegel",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "2795896",
+    "6282867",
+    "5371430",
+    "3591518",
+    "3591518",
+    "2456606"
+  ],
+  "winnerProducts": [
+    "5707070",
+    "6283311",
+    "9659186"
+  ],
+  "featuredCategories": [
+    "Zubeh\u00f6r f\u00fcr Spiegel",
+    "Zubeh\u00f6r f\u00fcr Spiegel",
+    "Kosmetikspiegel",
+    "Spiegel",
+    "Spiegel",
+    "Zubeh\u00f6r f\u00fcr Spiegel"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Badspiegel",
+    "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der sich ausschlie\u00dflich auf Badspiegel spezialisiert hat. Die Auswahl an Badspiegeln ist sehr gro\u00df. Die Preise sind sehr konkurrenzf\u00e4hig. Der Kundenservice ist sehr gut und die Ware wird sehr schnell geliefert. Wenn Sie also auf der Suche nach einem Badspiegel sind, wie z. B. einem Kosmetikspiegel oder Zubeh\u00f6r f\u00fcr Spiegel, dann sind Sie hier genau an der richtigen Adresse.",
+    "index": {
+      "title": "Der Badspiegel Shop",
+      "metaDescription": "Im Badspiegel-Shop wird eine gro\u00dfe Auswahl an Badspiegeln in verschiedenen Gr\u00f6\u00dfen, Formen und Designs angeboten. Schnelle Lieferung und Best-Preis-Garantie.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Spieglein an der Wand",
+            "text": "Herzlich Willkommen bei Spieglein an der Wand, Ihrem Online-Shop f\u00fcr hochwertige Badspiegel. Unser Sortiment bietet Ihnen eine gro\u00dfe Auswahl an Spiegeln in verschiedenen Gr\u00f6\u00dfen, Formen und Ausf\u00fchrungen, die Ihr Badezimmer in einen Raum voller Eleganz und Stil verwandeln werden.Unser Ziel ist es, Ihnen eine einfache und bequeme Einkaufserfahrung zu bieten, bei der Sie schnell und problemlos die f\u00fcr Sie passenden Spiegel finden k\u00f6nnen. Deshalb haben wir unsere Produkte in verschiedene Kategorien unterteilt, darunter Spiegel, Kosmetikspiegel und Zubeh\u00f6r f\u00fcr Spiegel.Wir bieten Ihnen nicht nur eine gro\u00dfe Auswahl an Spiegeln, sondern auch eine Vielzahl an Zubeh\u00f6r, darunter Beleuchtungsl\u00f6sungen, Spiegelhalterungen und andere praktische Accessoires, die Ihnen dabei helfen, Ihr Badezimmer vollst\u00e4ndig zu gestalten.Unsere Spiegel sind nicht nur sch\u00f6n anzusehen, sondern auch funktional und langlebig. Wir verwenden nur hochwertige Materialien und modernste Fertigungstechnologien, um sicherzustellen, dass jeder Spiegel, den Sie bei uns kaufen, den h\u00f6chsten Anspr\u00fcchen gerecht wird.Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Welt der Badspiegel bei Spieglein an der Wand. Wir sind sicher, dass Sie den perfekten Spiegel f\u00fcr Ihr Badezimmer finden werden. Bei Fragen stehen wir Ihnen jederzeit zur Verf\u00fcgung."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Spiegel",
+            "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/zubehoer-fuer-spiegel/\" title=\"Zubeh\u00f6r f\u00fcr Spiegel\">Zubeh\u00f6r f\u00fcr Spiegel</a>. Von Halterungen und Befestigungen bis hin zu Reinigungsmitteln und Schutzfolien - bei uns finden Sie alles, was Sie f\u00fcr Ihren Badspiegel ben\u00f6tigen. Unsere hochwertigen Produkte sorgen f\u00fcr eine lange Lebensdauer Ihres Spiegels und garantieren eine perfekte Funktionalit\u00e4t. \u00dcberzeugen Sie sich selbst von unserem Sortiment an Zubeh\u00f6r f\u00fcr Spiegel und bestellen Sie noch heute."
+          },
+          {
+            "title": "Spiegel",
+            "text": "Erleben Sie ein neues Niveau an Stil und Funktionalit\u00e4t mit unseren Badspiegeln. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen, Formen und Designs, damit Sie den perfekten <a href=\"/kategorie/spiegel/\" title=\"Spiegel\">Spiegel</a> f\u00fcr Ihr Bad finden. Unsere Spiegel sind aus hochwertigen Materialien gefertigt und bieten eine kristallklare Sicht. Verleihen Sie Ihrem Bad eine neue Optik und bestellen Sie noch heute einen Spiegel bei uns."
+          },
+          {
+            "title": "Kosmetikspiegel",
+            "text": "Steigern Sie Ihre Sch\u00f6nheitsroutine mit unseren hochwertigen <a href=\"/kategorie/kosmetikspiegel/\" title=\"Kosmetikspiegel\">Kosmetikspiegel</a>n. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, damit Sie den perfekten Spiegel f\u00fcr Ihre Bed\u00fcrfnisse finden. Unsere Spiegel bieten eine kristallklare Sicht und erm\u00f6glichen es Ihnen, jedes Detail Ihres Gesichts zu sehen. Verleihen Sie Ihrer Sch\u00f6nheitsroutine eine neue Dimension und bestellen Sie noch heute einen Kosmetikspiegel bei uns."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Badspiegel für dein Badezimmer",
-        "defaultMetaDescription": "Finde den perfekten Badspiegel für Dein Badezimmer aus der Kategorie $KATEGORIE. Wir haben eine große Auswahl an verschiedenen Badspiegeln.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Badspiegel Shop",
+      "metaDescription": "Der offizielle Online-Shop f\u00fcr Badezimmerspiegel. Hier findest du eine gro\u00dfe Auswahl an verschiedenen Badspiegeln f\u00fcr dein Zuhause.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Badspiegel und Zubehör von $HERSTELLER",
-        "defaultMetaDescription": "Wir bieten eine große Auswahl an Badezimmerspiegeln der Marke $HERSTELLER an. $HERSTELLER ist Ihr Profi für Badspiegel und Zubehör.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Badspiegel",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Badspiegel Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Badspiegel Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Badspiegel-Hersteller",
+      "metaDescription": "Wir f\u00fchren Badspiegel der Marken Fackelmann, Sanotechik, Duravit, Wenko und Sch\u00fctte. Bei uns finden Sie ausschlie\u00dflich Markenspiegel f\u00fcr Ihr Badezimmer.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Badspiegel Shop",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER g\u00fcnstig online kaufen. Schnelle Lieferung . Und viele weitere Produkte aus der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE: Die besten Badspiegel f\u00fcr dein Badezimmer",
+    "defaultMetaDescription": "Finde den perfekten Badspiegel f\u00fcr Dein Badezimmer aus der Kategorie $KATEGORIE. Wir haben eine gro\u00dfe Auswahl an verschiedenen Badspiegeln.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Badspiegel und Zubeh\u00f6r von $HERSTELLER",
+    "defaultMetaDescription": "Wir bieten eine gro\u00dfe Auswahl an Badezimmerspiegeln der Marke $HERSTELLER an. $HERSTELLER ist Ihr Profi f\u00fcr Badspiegel und Zubeh\u00f6r.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Badspiegel",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Badspiegel Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Badspiegel Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
