@@ -1,212 +1,219 @@
 {
-  "configIsReady": true,
-  "domain": "spieglein-an-der-wand.de",
-  "hostname": "https://www.spieglein-an-der-wand.de/",
-  "email": "spieglein-an-der-wand.de@surrealnetworks.io",
-  "organization": "spieglein-an-der-wand.de",
-  "logoText": "Spieglein-an-der-wand.de",
-  "title": "Badspiegel",
-  "subline": "Der Online Shop für Badspiegel",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "2795896",
-    "6282867",
-    "5371430",
-    "3591518",
-    "3591518",
-    "2456606"
-  ],
-  "winnerProducts": [
-    "5707070",
-    "6283311",
-    "9659186"
-  ],
-  "featuredCategories": [
-    "Zubehör für Spiegel",
-    "Zubehör für Spiegel",
-    "Kosmetikspiegel",
-    "Spiegel",
-    "Spiegel",
-    "Zubehör für Spiegel"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Badspiegel",
-    "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der sich ausschließlich auf Badspiegel spezialisiert hat. Die Auswahl an Badspiegeln ist sehr groß. Die Preise sind sehr konkurrenzfähig. Der Kundenservice ist sehr gut und die Ware wird sehr schnell geliefert. Wenn Sie also auf der Suche nach einem Badspiegel sind, wie z. B. einem Kosmetikspiegel oder Zubehör für Spiegel, dann sind Sie hier genau an der richtigen Adresse.",
-    "index": {
-      "title": "Der Badspiegel Shop",
-      "metaDescription": "Im Badspiegel-Shop wird eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs angeboten. Schnelle Lieferung und Best-Preis-Garantie.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Spieglein an der Wand",
-            "text": "Herzlich Willkommen bei Spieglein an der Wand, Ihrem Online-Shop für hochwertige Badspiegel. Unser Sortiment bietet Ihnen eine große Auswahl an Spiegeln in verschiedenen Größen, Formen und Ausführungen, die Ihr Badezimmer in einen Raum voller Eleganz und Stil verwandeln werden.Unser Ziel ist es, Ihnen eine einfache und bequeme Einkaufserfahrung zu bieten, bei der Sie schnell und problemlos die für Sie passenden Spiegel finden können. Deshalb haben wir unsere Produkte in verschiedene Kategorien unterteilt, darunter Spiegel, Kosmetikspiegel und Zubehör für Spiegel.Wir bieten Ihnen nicht nur eine große Auswahl an Spiegeln, sondern auch eine Vielzahl an Zubehör, darunter Beleuchtungslösungen, Spiegelhalterungen und andere praktische Accessoires, die Ihnen dabei helfen, Ihr Badezimmer vollständig zu gestalten.Unsere Spiegel sind nicht nur schön anzusehen, sondern auch funktional und langlebig. Wir verwenden nur hochwertige Materialien und modernste Fertigungstechnologien, um sicherzustellen, dass jeder Spiegel, den Sie bei uns kaufen, den höchsten Ansprüchen gerecht wird.Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Welt der Badspiegel bei Spieglein an der Wand. Wir sind sicher, dass Sie den perfekten Spiegel für Ihr Badezimmer finden werden. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-          },
-          {
-            "title": "Zubehör für Spiegel",
-            "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/zubehoer-fuer-spiegel/\" title=\"Zubehör für Spiegel\">Zubehör für Spiegel</a>. Von Halterungen und Befestigungen bis hin zu Reinigungsmitteln und Schutzfolien - bei uns finden Sie alles, was Sie für Ihren Badspiegel benötigen. Unsere hochwertigen Produkte sorgen für eine lange Lebensdauer Ihres Spiegels und garantieren eine perfekte Funktionalität. Überzeugen Sie sich selbst von unserem Sortiment an Zubehör für Spiegel und bestellen Sie noch heute."
-          },
-          {
-            "title": "Spiegel",
-            "text": "Erleben Sie ein neues Niveau an Stil und Funktionalität mit unseren Badspiegeln. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, damit Sie den perfekten <a href=\"/kategorie/spiegel/\" title=\"Spiegel\">Spiegel</a> für Ihr Bad finden. Unsere Spiegel sind aus hochwertigen Materialien gefertigt und bieten eine kristallklare Sicht. Verleihen Sie Ihrem Bad eine neue Optik und bestellen Sie noch heute einen Spiegel bei uns."
-          },
-          {
-            "title": "Kosmetikspiegel",
-            "text": "Steigern Sie Ihre Schönheitsroutine mit unseren hochwertigen <a href=\"/kategorie/kosmetikspiegel/\" title=\"Kosmetikspiegel\">Kosmetikspiegel</a>n. Wir bieten eine große Auswahl an verschiedenen Größen und Designs, damit Sie den perfekten Spiegel für Ihre Bedürfnisse finden. Unsere Spiegel bieten eine kristallklare Sicht und ermöglichen es Ihnen, jedes Detail Ihres Gesichts zu sehen. Verleihen Sie Ihrer Schönheitsroutine eine neue Dimension und bestellen Sie noch heute einen Kosmetikspiegel bei uns."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "spieglein-an-der-wand.de",
+    "hostname": "https://www.spieglein-an-der-wand.de/",
+    "email": "spieglein-an-der-wand.de@surrealnetworks.io",
+    "organization": "spieglein-an-der-wand.de",
+    "logoText": "Spieglein-an-der-wand.de",
+    "title": "Badspiegel",
+    "subline": "Der Online Shop für Badspiegel",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "2795896",
+        "6282867",
+        "5371430",
+        "3591518",
+        "3591518",
+        "2456606"
+    ],
+    "winnerProducts": [
+        "5707070",
+        "6283311",
+        "9659186"
+    ],
+    "featuredCategories": [
+        "Zubehör für Spiegel",
+        "Zubehör für Spiegel",
+        "Kosmetikspiegel",
+        "Spiegel",
+        "Spiegel",
+        "Zubehör für Spiegel"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Badspiegel",
+        "featureText": "Der Badspiegel-Shop ist ein Online-Shop, der sich ausschließlich auf Badspiegel spezialisiert hat. Die Auswahl an Badspiegeln ist sehr groß. Die Preise sind sehr konkurrenzfähig. Der Kundenservice ist sehr gut und die Ware wird sehr schnell geliefert. Wenn Sie also auf der Suche nach einem Badspiegel sind, wie z. B. einem Kosmetikspiegel oder Zubehör für Spiegel, dann sind Sie hier genau an der richtigen Adresse.",
+        "index": {
+            "title": "Der Badspiegel Shop",
+            "metaDescription": "Im Badspiegel-Shop wird eine große Auswahl an Badspiegeln in verschiedenen Größen, Formen und Designs angeboten. Schnelle Lieferung und Best-Preis-Garantie.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Spieglein an der Wand",
+                        "text": "Herzlich Willkommen bei Spieglein an der Wand, Ihrem Online-Shop für hochwertige Badspiegel. Unser Sortiment bietet Ihnen eine große Auswahl an Spiegeln in verschiedenen Größen, Formen und Ausführungen, die Ihr Badezimmer in einen Raum voller Eleganz und Stil verwandeln werden.Unser Ziel ist es, Ihnen eine einfache und bequeme Einkaufserfahrung zu bieten, bei der Sie schnell und problemlos die für Sie passenden Spiegel finden können. Deshalb haben wir unsere Produkte in verschiedene Kategorien unterteilt, darunter Spiegel, Kosmetikspiegel und Zubehör für Spiegel.Wir bieten Ihnen nicht nur eine große Auswahl an Spiegeln, sondern auch eine Vielzahl an Zubehör, darunter Beleuchtungslösungen, Spiegelhalterungen und andere praktische Accessoires, die Ihnen dabei helfen, Ihr Badezimmer vollständig zu gestalten.Unsere Spiegel sind nicht nur schön anzusehen, sondern auch funktional und langlebig. Wir verwenden nur hochwertige Materialien und modernste Fertigungstechnologien, um sicherzustellen, dass jeder Spiegel, den Sie bei uns kaufen, den höchsten Ansprüchen gerecht wird.Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Welt der Badspiegel bei Spieglein an der Wand. Wir sind sicher, dass Sie den perfekten Spiegel für Ihr Badezimmer finden werden. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
+                    },
+                    {
+                        "title": "Zubehör für Spiegel",
+                        "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/zubehoer-fuer-spiegel/\" title=\"Zubehör für Spiegel\">Zubehör für Spiegel</a>. Von Halterungen und Befestigungen bis hin zu Reinigungsmitteln und Schutzfolien - bei uns finden Sie alles, was Sie für Ihren Badspiegel benötigen. Unsere hochwertigen Produkte sorgen für eine lange Lebensdauer Ihres Spiegels und garantieren eine perfekte Funktionalität. Überzeugen Sie sich selbst von unserem Sortiment an Zubehör für Spiegel und bestellen Sie noch heute."
+                    },
+                    {
+                        "title": "Spiegel",
+                        "text": "Erleben Sie ein neues Niveau an Stil und Funktionalität mit unseren Badspiegeln. Wir bieten eine große Auswahl an verschiedenen Größen, Formen und Designs, damit Sie den perfekten <a href=\"/kategorie/spiegel/\" title=\"Spiegel\">Spiegel</a> für Ihr Bad finden. Unsere Spiegel sind aus hochwertigen Materialien gefertigt und bieten eine kristallklare Sicht. Verleihen Sie Ihrem Bad eine neue Optik und bestellen Sie noch heute einen Spiegel bei uns."
+                    },
+                    {
+                        "title": "Kosmetikspiegel",
+                        "text": "Steigern Sie Ihre Schönheitsroutine mit unseren hochwertigen <a href=\"/kategorie/kosmetikspiegel/\" title=\"Kosmetikspiegel\">Kosmetikspiegel</a>n. Wir bieten eine große Auswahl an verschiedenen Größen und Designs, damit Sie den perfekten Spiegel für Ihre Bedürfnisse finden. Unsere Spiegel bieten eine kristallklare Sicht und ermöglichen es Ihnen, jedes Detail Ihres Gesichts zu sehen. Verleihen Sie Ihrer Schönheitsroutine eine neue Dimension und bestellen Sie noch heute einen Kosmetikspiegel bei uns."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Badspiegel Shop",
+            "metaDescription": "Der offizielle Online-Shop für Badezimmerspiegel. Hier findest du eine große Auswahl an verschiedenen Badspiegeln für dein Zuhause.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Badspiegel-Hersteller",
+            "metaDescription": "Wir führen Badspiegel der Marken Fackelmann, Sanotechik, Duravit, Wenko und Schütte. Bei uns finden Sie ausschließlich Markenspiegel für Ihr Badezimmer.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Badspiegel Shop",
-      "metaDescription": "Der offizielle Online-Shop für Badezimmerspiegel. Hier findest du eine große Auswahl an verschiedenen Badspiegeln für dein Zuhause.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Badspiegel-Hersteller",
-      "metaDescription": "Wir führen Badspiegel der Marken Fackelmann, Sanotechik, Duravit, Wenko und Schütte. Bei uns finden Sie ausschließlich Markenspiegel für Ihr Badezimmer.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | Badspiegel Shop",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig online kaufen. Schnelle Lieferung . Und viele weitere Produkte aus der Kategorie $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5707070",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | Badspiegel Shop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig online kaufen. Schnelle Lieferung . Und viele weitere Produkte aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Kristall-Form Spiegelklammerset: Einfache und sichere Spiegelmontage",
-              "text": "<p class=\"justify\">Das Kristall-Form Spiegelklammerset (SKU 5707070) ist die ideale Lösung für alle, die einen Spiegel schnell, einfach und sicher montieren möchten. Das Set, welches zur Kategorie Spiegel gehört, hat die GTIN13 4002177009905 und wird Ihnen bei der Installation Ihres Spiegels in Bad, Badspiegel oder anderen relevanten Bereich große Hilfe leisten.</p><p class=\"justify\">Das Set besteht aus vier silberfarbenen Spiegelklammern, die eine Tragfähigkeit von 5 kg bieten. Die hochwertigen Klammern garantieren eine zuverlässige und stabile Befestigung des Spiegels an der Wand. Dabei ist das Spiegelklammerset für verschiedenste Spiegelgrößen und -formen geeignet.</p><p class=\"justify\">Dank der benutzerfreundlichen Montage sind keine besonderen handwerklichen Fähigkeiten erforderlich, um den Spiegel sicher zu befestigen. Mit diesem Spiegelklammerset erzielen Sie ein professionelles Ergebnis, das Ihre Erwartungen erfüllen oder sogar übertreffen wird. Der Preis von 4,79 € ist dabei sehr attraktiv und bietet ein ausgezeichnetes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">Das Kristall-Form Spiegelklammerset erfreut sich großer Beliebtheit und hat bereits über 433 Kundenbewertungen erhalten, die zu einer durchschnittlichen Bewertung von 4 Sternen führen. Das spricht für die Qualität und Kundenzufriedenheit, die dieses Produkt verspricht und liefert.</p><p class=\"justify\">Zusammenfassend ist das Kristall-Form Spiegelklammerset die ideale Wahl, wenn es um die schnelle, einfache und sichere Montage von Spiegeln geht. Bestellen Sie Ihr Set noch heute und genießen Sie die Vorteile dieses hochwertigen Produkts.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6283311",
-        "seo": {
-          "texts": [
-            {
-              "title": "Keuco Kosmetikspiegel iLook Move 17613 eckig beleuchtet Chrom mit Steckertrafo",
-              "text": "<p class=\"justify\">Der Keuco Kosmetikspiegel iLook Move 17613 ist ein elegantes und funktionales Badaccessoire, das in keinem modernen Badezimmer fehlen sollte. Dieser eckige, beleuchtete Kosmetikspiegel mit Chromoberfläche bietet durch seine 5-fache Vergrößerung sowie einer Konkavseite optimale Unterstützung bei der täglichen Gesichtspflege, egal ob beim Rasieren oder Schminken. Mit seiner verchromten Wandstütze und dem stabilen, schwenkbaren Gelenk lässt sich der Spiegel leicht an die individuellen Bedürfnisse anpassen und fügt sich nahtlos in das Design Ihres Bades ein.</p><p class=\"justify\">Das praktische Licht des Keuco Kosmetikspiegels iLook Move 17613 sorgt mit 7 W LED und hellem Tageslicht (6.500 K) für optimale Ausleuchtung bei der Anwendung. Die Stromversorgung erfolgt über einen Steckertransformator (100-240 V) und ein weißes Spiralkabel (400 mm) mit Kabelschalter. Die verdeckte Montage des Spiegels unterstreicht das edle Design und gewährleistet eine stabile Befestigung an der Wand. Dank korrosionsfreien Befestigungen ist das Material unempfindlich gegen Feuchtigkeit im Badezimmer.</p><p class=\"justify\">Der Keuco Kosmetikspiegel iLook Move 17613 hat ein Außenmaß von H x B: 200 mm x 200 mm und eine Ausladung von 300 mm, wenn er vollständig ausgefahren ist. Die im Lieferumfang enthaltenen Befestigungspunkte lassen sich dreidimensional verstellen, um eine optimale Lastverteilung zu gewährleisten. Mit insgesamt 63 Bewertungen und 5 Sternen überzeugt dieser Spiegel seine Nutzer durch seine Qualität, Funktionalität und das elegante Design. Entscheiden Sie sich für den Keuco Kosmetikspiegel iLook Move 17613 eckig beleuchtet Chrom mit Steckertrafo und erleben Sie selbst das komfortable und stilvolle Upgrade in Ihrem Badezimmer.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9659186",
-        "seo": {
-          "texts": [
-            {
-              "title": "Maximus LED-Spiegelleuchte Esther 120 cm Chrom",
-              "text": "<p class=\"justify\">Die Maximus LED-Spiegelleuchte Esther 120 cm in Chrom ist eine stilvolle und praktische Ergänzung für Ihren Badezimmerbereich. Als Teil des Zubehörs für Spiegel bietet diese Leuchte optimale Beleuchtung und sorgt dafür, dass Ihr Bad heller und freundlicher wirkt. Mit einer neutralen Farbtemperatur von 4000 K und einer Leistung von 18 W ist die Esther Spiegelleuchte ideal für vielfältige Anwendungsbereiche, wie z.B. das morgendliche Stylen, Rasieren oder Schminken.</p><p class=\"justify\">Die verchromte Oberfläche verleiht der LED-Aufsatzleuchte ein modernes und hochwertiges Erscheinungsbild, das perfekt in unterschiedliche Badezimmerdesigns integriert werden kann. Die Leuchte ist mit Schutzart IP 44 ausgestattet, was bedeutet, dass sie spritzwassergeschützt und somit optimal für den Einsatz in Feuchträumen geeignet ist. Die Maße der Spiegelleuchte betragen 120 cm x 10,7 cm (B x T), was sie ideal für große Spiegel oder Spiegelschränke macht.</p><p class=\"justify\">Mit einer Kundenbewertung von 4 Sternen und 236 Rezensionen, ist die Maximus LED-Spiegelleuchte Esther 120 cm Chrom eine beliebte Wahl für Menschen, die ihren Badezimmerspiegel aufwerten möchten. Insgesamt bietet die Esther Spiegelleuchte eine Kombination aus ästhetischer und funktionaler Lösung für die ideale Beleuchtung Ihres Badezimmerspiegels.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE: Die besten Badspiegel für dein Badezimmer",
-    "defaultMetaDescription": "Finde den perfekten Badspiegel für Dein Badezimmer aus der Kategorie $KATEGORIE. Wir haben eine große Auswahl an verschiedenen Badspiegeln.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5707070",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kristall-Form Spiegelklammerset: Einfache und sichere Spiegelmontage",
+                            "text": "<p class=\"justify\">Das Kristall-Form Spiegelklammerset (SKU 5707070) ist die ideale Lösung für alle, die einen Spiegel schnell, einfach und sicher montieren möchten. Das Set, welches zur Kategorie Spiegel gehört, hat die GTIN13 4002177009905 und wird Ihnen bei der Installation Ihres Spiegels in Bad, Badspiegel oder anderen relevanten Bereich große Hilfe leisten.</p><p class=\"justify\">Das Set besteht aus vier silberfarbenen Spiegelklammern, die eine Tragfähigkeit von 5 kg bieten. Die hochwertigen Klammern garantieren eine zuverlässige und stabile Befestigung des Spiegels an der Wand. Dabei ist das Spiegelklammerset für verschiedenste Spiegelgrößen und -formen geeignet.</p><p class=\"justify\">Dank der benutzerfreundlichen Montage sind keine besonderen handwerklichen Fähigkeiten erforderlich, um den Spiegel sicher zu befestigen. Mit diesem Spiegelklammerset erzielen Sie ein professionelles Ergebnis, das Ihre Erwartungen erfüllen oder sogar übertreffen wird. Der Preis von 4,79 € ist dabei sehr attraktiv und bietet ein ausgezeichnetes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">Das Kristall-Form Spiegelklammerset erfreut sich großer Beliebtheit und hat bereits über 433 Kundenbewertungen erhalten, die zu einer durchschnittlichen Bewertung von 4 Sternen führen. Das spricht für die Qualität und Kundenzufriedenheit, die dieses Produkt verspricht und liefert.</p><p class=\"justify\">Zusammenfassend ist das Kristall-Form Spiegelklammerset die ideale Wahl, wenn es um die schnelle, einfache und sichere Montage von Spiegeln geht. Bestellen Sie Ihr Set noch heute und genießen Sie die Vorteile dieses hochwertigen Produkts.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6283311",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Keuco Kosmetikspiegel iLook Move 17613 eckig beleuchtet Chrom mit Steckertrafo",
+                            "text": "<p class=\"justify\">Der Keuco Kosmetikspiegel iLook Move 17613 ist ein elegantes und funktionales Badaccessoire, das in keinem modernen Badezimmer fehlen sollte. Dieser eckige, beleuchtete Kosmetikspiegel mit Chromoberfläche bietet durch seine 5-fache Vergrößerung sowie einer Konkavseite optimale Unterstützung bei der täglichen Gesichtspflege, egal ob beim Rasieren oder Schminken. Mit seiner verchromten Wandstütze und dem stabilen, schwenkbaren Gelenk lässt sich der Spiegel leicht an die individuellen Bedürfnisse anpassen und fügt sich nahtlos in das Design Ihres Bades ein.</p><p class=\"justify\">Das praktische Licht des Keuco Kosmetikspiegels iLook Move 17613 sorgt mit 7 W LED und hellem Tageslicht (6.500 K) für optimale Ausleuchtung bei der Anwendung. Die Stromversorgung erfolgt über einen Steckertransformator (100-240 V) und ein weißes Spiralkabel (400 mm) mit Kabelschalter. Die verdeckte Montage des Spiegels unterstreicht das edle Design und gewährleistet eine stabile Befestigung an der Wand. Dank korrosionsfreien Befestigungen ist das Material unempfindlich gegen Feuchtigkeit im Badezimmer.</p><p class=\"justify\">Der Keuco Kosmetikspiegel iLook Move 17613 hat ein Außenmaß von H x B: 200 mm x 200 mm und eine Ausladung von 300 mm, wenn er vollständig ausgefahren ist. Die im Lieferumfang enthaltenen Befestigungspunkte lassen sich dreidimensional verstellen, um eine optimale Lastverteilung zu gewährleisten. Mit insgesamt 63 Bewertungen und 5 Sternen überzeugt dieser Spiegel seine Nutzer durch seine Qualität, Funktionalität und das elegante Design. Entscheiden Sie sich für den Keuco Kosmetikspiegel iLook Move 17613 eckig beleuchtet Chrom mit Steckertrafo und erleben Sie selbst das komfortable und stilvolle Upgrade in Ihrem Badezimmer.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9659186",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Maximus LED-Spiegelleuchte Esther 120 cm Chrom",
+                            "text": "<p class=\"justify\">Die Maximus LED-Spiegelleuchte Esther 120 cm in Chrom ist eine stilvolle und praktische Ergänzung für Ihren Badezimmerbereich. Als Teil des Zubehörs für Spiegel bietet diese Leuchte optimale Beleuchtung und sorgt dafür, dass Ihr Bad heller und freundlicher wirkt. Mit einer neutralen Farbtemperatur von 4000 K und einer Leistung von 18 W ist die Esther Spiegelleuchte ideal für vielfältige Anwendungsbereiche, wie z.B. das morgendliche Stylen, Rasieren oder Schminken.</p><p class=\"justify\">Die verchromte Oberfläche verleiht der LED-Aufsatzleuchte ein modernes und hochwertiges Erscheinungsbild, das perfekt in unterschiedliche Badezimmerdesigns integriert werden kann. Die Leuchte ist mit Schutzart IP 44 ausgestattet, was bedeutet, dass sie spritzwassergeschützt und somit optimal für den Einsatz in Feuchträumen geeignet ist. Die Maße der Spiegelleuchte betragen 120 cm x 10,7 cm (B x T), was sie ideal für große Spiegel oder Spiegelschränke macht.</p><p class=\"justify\">Mit einer Kundenbewertung von 4 Sternen und 236 Rezensionen, ist die Maximus LED-Spiegelleuchte Esther 120 cm Chrom eine beliebte Wahl für Menschen, die ihren Badezimmerspiegel aufwerten möchten. Insgesamt bietet die Esther Spiegelleuchte eine Kombination aus ästhetischer und funktionaler Lösung für die ideale Beleuchtung Ihres Badezimmerspiegels.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE: Die besten Badspiegel für dein Badezimmer",
+        "defaultMetaDescription": "Finde den perfekten Badspiegel für Dein Badezimmer aus der Kategorie $KATEGORIE. Wir haben eine große Auswahl an verschiedenen Badspiegeln.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Badspiegel und Zubehör von $HERSTELLER",
+        "defaultMetaDescription": "Wir bieten eine große Auswahl an Badezimmerspiegeln der Marke $HERSTELLER an. $HERSTELLER ist Ihr Profi für Badspiegel und Zubehör.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Badspiegel",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Badspiegel Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Badspiegel Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Badspiegel und Zubehör von $HERSTELLER",
-    "defaultMetaDescription": "Wir bieten eine große Auswahl an Badezimmerspiegeln der Marke $HERSTELLER an. $HERSTELLER ist Ihr Profi für Badspiegel und Zubehör.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Badspiegel",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Badspiegel Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Badspiegel Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
